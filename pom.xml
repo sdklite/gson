@@ -12,7 +12,7 @@
   <artifactId>gson</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>RPC Framework</name>
+  <name>Gson Adapter</name>
   <url>http://gson.sdklite.com</url>
 
   <scm>
