@@ -9,8 +9,9 @@
     <version>0.0.3</version>
   </parent>
 
+  <groupId>com.sdklite</groupId>
   <artifactId>gson</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
 
   <name>Gson Adapter</name>
   <url>http://gson.sdklite.com</url>
